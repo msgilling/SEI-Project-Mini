@@ -20,14 +20,8 @@ const App = () => {
         <Route exact path="/shuffle" component={Shuffle}/>
 
       </Switch>
-      
-      
-      
-      
     </BrowserRouter>
-     
 
-      
     
   )
 }
