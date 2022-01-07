@@ -1,2 +1,9 @@
-# SEI-Project-Mini
-Pair-programming in a 48 hour Hackathon using JavaScript, React Hooks, CSS, Express with Node.js and Bulma. We used a public API (IMDB-api) to build an app that showcased the top 250 movies and shuffled a random one for users who hate picking!
+# PROJECT 2 - FILMOJO 🎬  
+
+## Project Members
+[Talia Glantz](https://github.com/taliaglantz)
+[Mariah Gilling](https://github.com/msgilling)
+## Overview
+**FILMOJO** uses the IMDB API to show the top 250 movies on the IMDB site. The user is able to browse the top movies, favourite them, and shuffle a random movie for inspiration.
+
+![FILMOJO homepage](./frontend/src/assets/filmojo_home_page.png)
