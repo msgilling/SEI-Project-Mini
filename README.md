@@ -3,7 +3,7 @@
 ## Project Members
 - [Talia Glantz](https://github.com/taliaglantz)
 - [Mariah Gilling](https://github.com/msgilling)
-- 
+
 ## Overview
 **FILMOJO** uses the IMDB API to show the top 250 movies on the IMDB site. The user is able to browse the top movies, favourite them, and shuffle a random movie for inspiration.
 
@@ -98,6 +98,10 @@ In the return we were able to access a random movie title and image with dot not
 ![Shuffle page](./src/assets/shuffle.png)
 
 Once we were happy with our requests and features we headed straight into styling and a bit of animation for our homepage.
+
+Before finishing I decided to try my hand at some animation to make the homepage a bit more alluring. For this we used `react-animations` which came with a <Bounce> function.
+
+![bounce animation code ](./src/assets/bounceannimation.png)
 
 ## Bugs
 - Styling on the Shuffle page isn’t perfect as we wanted the movie card to be floating more rather than stuck at the bottom of the page when viewed on different screen sizes.
