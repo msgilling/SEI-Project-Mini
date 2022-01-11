@@ -101,7 +101,7 @@ Once we were happy with our requests and features we headed straight into stylin
 
 Before finishing I decided to try my hand at some animation to make the homepage a bit more alluring. For this we used `react-animations` which came with a <Bounce> function.
 
-![bounce animation code ](./src/assets/bounceanimation.png)
+![Bounce animation code](./src/assets/bounceanimation.png)
 
 ## Bugs
 - Styling on the Shuffle page isn’t perfect as we wanted the movie card to be floating more rather than stuck at the bottom of the page when viewed on different screen sizes.
