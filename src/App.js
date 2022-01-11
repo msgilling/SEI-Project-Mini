@@ -8,7 +8,7 @@ import Favourites from './components/Favourites'
 import Shuffle from './components/Shuffle'
 
 const App = () => {
-  // console.log('movies on state->', movies)
+
   return (
     <BrowserRouter>
       <NavBar />
